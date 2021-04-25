@@ -1,0 +1,14 @@
+.HistoriesPage{
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    width: 800px;
+    text-align: center;
+}
+
+.header {
+  width: fit-content;
+  padding: 20px;
+  margin: 50px auto;
+}
+  

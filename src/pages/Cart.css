@@ -1,0 +1,30 @@
+.Cart {
+    display: flex;
+    margin: 50px auto;
+    padding: 20px;
+    justify-content: center;
+    flex-direction: column;
+    width: fit-content;
+  }
+  
+  .Cart h3 {
+    padding-bottom: 20px;
+  }
+
+  .Toast{
+    margin:50px auto;
+    width: fit-content;
+  }
+  
+  .CartEmpty{
+    display: flex;
+    justify-content: center;
+    margin: 250px auto;
+    width: fit-content;
+  }
+  
+  .checkOut {
+    margin: 20px auto;
+    width: 100px;
+  }
+  

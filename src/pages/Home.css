@@ -1,0 +1,6 @@
+.Home {
+    display: flex;
+    max-width: max-content;
+    padding: 30px;
+    margin: 50px auto;
+}

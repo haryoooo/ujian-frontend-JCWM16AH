@@ -1,0 +1,14 @@
+.LoginForm{
+    display: flex;
+    justify-content: center;
+    border: 1px solid lightgray;
+    flex-direction: column;
+    border-radius: 12px;
+    margin: 100px auto;
+    padding: 50px;
+    width: max-content;
+}
+
+.LoginForm h3 {
+    padding-bottom: 20px;
+}
